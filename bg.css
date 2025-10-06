@@ -8,3 +8,11 @@
     background-position: center center;
     background-attachment: fixed;
 }
+
+a :hover {
+    color: rgb(10, 10, 50)
+}
+
+h1, h2, h3, h4, h5, h6, p, a {
+    color: white
+}
